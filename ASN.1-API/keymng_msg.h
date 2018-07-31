@@ -1,6 +1,7 @@
 ﻿#ifndef _KEYMNG_MSG_H_
 #define _KEYMNG_MSG_H_
 
+//这么长是啥玩意啊
 #ifdef __cplusplus
 extern "C" {
 #endif
